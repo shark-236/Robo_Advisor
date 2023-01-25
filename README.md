@@ -30,6 +30,8 @@ Note: Be mindful of use of services in AWS. Certain services/thresholds can and 
 
 Note: I am not sponsored by, nor do I have any affiliation with, Amazon AWS. 
 
+From your local machine, copy the code in file Module_15_Lambda_Script.py (included in this repository) into your Amazon Lambda function. Sync it to your bot, and deploy. To view a demo of the bot in action, view the RoboAdvisor_Demo.mp4 file (also included in this repository). 
+
 ---
 
 ## Contributors
